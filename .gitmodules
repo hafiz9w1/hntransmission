@@ -1,0 +1,4 @@
+[submodule "home/odoo/src/custom"]
+	path = home/odoo/src/custom
+	url = https://github.com/hafiz9w1/hntransmission.git
+	branch = main
